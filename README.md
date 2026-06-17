@@ -5,8 +5,7 @@
 **Master loops, nested loops, and logic building with hands-on pattern programs**
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)](https://cplusplus.com/)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/Vishnu2839/cpp-patterns)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+
 
 </div>
 
