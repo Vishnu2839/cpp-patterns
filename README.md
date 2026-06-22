@@ -105,6 +105,4 @@
 
 <div align="center">
 
-**Happy Learning! Keep coding! 🚀**
-
 </div>
